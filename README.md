@@ -1,5 +1,5 @@
 # rusty-chip8
-chip8 emulator with rust and sdl2
+chip8 emulator with rust and sdl2. Emulator is still in development.
 
 # Usage
 `cd desktop`
