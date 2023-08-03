@@ -79,7 +79,7 @@ impl Emulator {
     }
 
     pub fn tick(&mut self) {
-        let mut op = self.fetch();
+        let op = self.fetch();
     
         self.execute(op);
     }
